@@ -108,6 +108,16 @@ const Projects = () => {
       github: 'https://github.com/Arpitsingh000/NETFLIX-CLONE.git',
       liveDemo: 'https://movie-clone-by-arpit.netlify.app/',
     },
+    {
+      id: 10,
+      title: 'Money Manager',
+      category: 'app',
+      image: '/money.png',
+      description: 'Take control of your finances with our smart Money Manager app – track, budget, and save effortlessly.',
+      technologies: ['HTML', 'CSS', 'JavaScript', 'React', 'Redux'],
+      github: 'https://github.com/Arpitsingh000/Money-Manager.git',
+      liveDemo: 'https://money-manager-system.vercel.app/',
+    },
   ];
 
   const categories = [
