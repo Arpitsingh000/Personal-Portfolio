@@ -118,6 +118,16 @@ const Projects = () => {
       github: 'https://github.com/Arpitsingh000/Money-Manager.git',
       liveDemo: 'https://money-manager-system.vercel.app/',
     },
+    {
+      id: 11,
+      title: 'TMDB Movie Discovery',
+      category: 'web',
+      image: '/movie-discovery.png',
+      description: 'Movie Discovery is a modern web application that allows users to explore trending and top-rated movies using the TMDB (The Movie Database) API. The app provides a sleek, responsive UI with categorized movie lists and search functionality. It is optimized for performance with dynamic component loading, ensuring a fast and seamless user experience.',
+      technologies: ['HTML', 'CSS', 'JavaScript', 'React', 'React Router', 'React.lazy + Suspense', 'React.memo', 'Axios/Fetch'],
+      github: 'https://github.com/Arpitsingh000/movie-discovery-app.git',
+      liveDemo: 'https://tmdb-movie-discovery-app.vercel.app/',
+    },
   ];
 
   const categories = [
