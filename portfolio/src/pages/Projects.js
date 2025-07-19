@@ -128,6 +128,26 @@ const Projects = () => {
       github: 'https://github.com/Arpitsingh000/movie-discovery-app.git',
       liveDemo: 'https://tmdb-movie-discovery-app.vercel.app/',
     },
+    {
+      id: 12,
+      title: 'Photo Gallery',
+      category: 'app',
+      image: '/photo-gallery.png',
+      description: 'This is a photo gallery web app that displays a collection of images in a clean, organized layout.Users can browse, view details, and enjoy a visually appealing image viewing experience.',
+      technologies: ['HTML', 'CSS', 'JavaScript', 'React', 'Node.js', 'Express.js', 'MongoDB', ],
+      github: 'https://github.com/Arpitsingh000/Photo-Gallery.git',
+      liveDemo: 'https://photo-gallery-for-you.vercel.app/',
+    },
+    {
+      id: 13,
+      title: 'Online Code Editor',
+      category: 'web',
+      image: '/code-editor.png',
+      description: 'This is a simple online HTML code editor where you can write, edit, and preview HTML in real time.It helps users test and experiment with HTML code directly in the browser without any setup.',
+      technologies: ['HTML', 'CSS', 'JavaScript', 'React', ],
+      github: 'https://github.com/Arpitsingh000/online-code-editor.git',
+      liveDemo: 'https://online-html-code-editor.vercel.app/',
+    },
   ];
 
   const categories = [
